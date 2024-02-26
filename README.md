@@ -1,2 +1,1 @@
-git@github.com:0xPaiin/Python.git
-
+these are my random projects i made to learn python.
